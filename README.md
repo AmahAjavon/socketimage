@@ -1,6 +1,1 @@
-### Ionic Realtime Image Share
-=============================================
-
-This is a demo app developed as a part of a tutorial published on http://www.htmlxprs.com.
-
-It uses Ionic framework + Socket.io to create a realtime image share app.
+This is a simple realtime image sharing app with ionic and socket.io.
