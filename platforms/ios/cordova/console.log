@@ -1,0 +1,16 @@
+2015-04-05 22:57:21.582 image-share[78881:3024511] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Griot/Library/Developer/CoreSimulator/Devices/78899952-6AE4-4A24-85D1-B8E695FC3BB7/data/Containers/Data/Application/23FCE428-B12A-4756-9AE4-E954E0B20542/Library/Cookies/Cookies.binarycookies
+2015-04-05 22:57:23.301 image-share[78881:3024511] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-05 22:57:23.302 image-share[78881:3024511] Multi-tasking -> Device: YES, App: YES
+2015-04-05 22:57:23.444 image-share[78881:3024511] Unlimited access to network resources
+2015-04-05 22:57:25.300 image-share[78881:3024511] [CDVTimer][keyboard] 14.639020ms
+2015-04-05 22:57:25.300 image-share[78881:3024511] [CDVTimer][TotalPluginStartup] 15.060008ms
+2015-04-05 22:57:26.629 image-share[78881:3024511] Resetting plugins due to page load.
+2015-04-05 22:57:29.023 image-share[78881:3024511] Finished load of: http://192.168.1.5:8100/
+2015-04-05 23:18:01.225 image-share[79229:3031933] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Griot/Library/Developer/CoreSimulator/Devices/78899952-6AE4-4A24-85D1-B8E695FC3BB7/data/Containers/Data/Application/6BBC2A38-A347-47BA-A4CB-6D1E6C53221C/Library/Cookies/Cookies.binarycookies
+2015-04-05 23:18:04.123 image-share[79229:3031933] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-05 23:18:04.123 image-share[79229:3031933] Multi-tasking -> Device: YES, App: YES
+2015-04-05 23:18:04.184 image-share[79229:3031933] Unlimited access to network resources
+2015-04-05 23:18:06.446 image-share[79229:3031933] [CDVTimer][keyboard] 28.137028ms
+2015-04-05 23:18:06.446 image-share[79229:3031933] [CDVTimer][TotalPluginStartup] 28.591990ms
+2015-04-05 23:18:08.444 image-share[79229:3031933] Resetting plugins due to page load.
+2015-04-05 23:18:10.951 image-share[79229:3031933] Finished load of: http://192.168.1.5:8100/
